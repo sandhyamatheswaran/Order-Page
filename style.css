@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+   
+}
+body{
+    border-radius: 2px;
+    border-color: red;
+    border-style: solid;
+    background-image: url("top\ image.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+li,h2,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    padding-left: 15px;
+    color: gray;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.bar{
+    width: 61%;
+    padding: 10px;
+}
+.searchbar{
+    margin: 20px;
+    padding-left: 26%;
+}
+.box1{
+    border-color: black;
+    border-radius: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    background-color: pink;
+
+}
+.box1:hover{
+    background-color: gray;
+    color: white;
+}
+h4{
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+.box1{
+    text-align: center;
+}
+h4:hover{
+    background-color:green;
+}
+.top-container{
+    text-align: center;
+   
+}
+.container{
+    text-align: center;
+    background-color: plum;
+    color: white;
+}
+input{
+    padding: 6px;
+}
+.sub{
+    background-color: blue;
+    color: white;
+}
+.sub:hover{
+    background-color: green;
+    color: white;
+}
